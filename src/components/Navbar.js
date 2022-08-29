@@ -24,7 +24,7 @@ function Navbar() {
         </button>
       </div>
         
-      <Link to="/"><h1>WESTATE</h1></Link>
+      <Link to="/"><h1>Westate</h1></Link>
       <ul>
         <li><Link to="/" class="active"> HOME </Link></li>
         <li><Link to="/projects"> PORTFOLIO </Link></li>
